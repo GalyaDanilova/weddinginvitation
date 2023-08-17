@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset = "UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href='assets/css/style.css'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Caveat&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet"> <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Caveat&family=Montserrat:wght@400;700&family=Stalinist+One&display=swap" rel="stylesheet">
+    <title>05/08/2023</title>
+</head>
+
+
+    <body>
+
+    <section id="n1"><div class="grand"> <img src="https://vh299-fm.sweb.ru/files/public_html/assets/images/grand.png"><img src="https://vh299-fm.sweb.ru/files/public_html/assets/images/dude.png" class="dude"></div></section>    
+        
+    <section id="n2" class="section2">
+         <div class="article1">
+             <img src="https://vh299-fm.sweb.ru/files/public_html/assets/images/girl.png" class="girl">
+            <h1>Эй, ребят, как там ваш загар?</h1>
+            <p>Мы безумно рады вам сообщить, что 5 августа ждём вас на вечеринке по поводу того, что мы стали мужем и женой.</p>
+
+            <p>Это не свадьба, это просто вечеринка у бассейна с коктейлями, грилем и музыкой. Так что чувствуйте себя максимально комфортно и расслабленно. </p>
+        </div>
+    </section>
+    <section id="n3">   
+        <div class="article2">
+            <p>Старт тусовки в 19-00, а дальше… ну как пойдет. Мы будем на закрытой территории, так что не мы, не нам никто не помешает. Как говорится: .</p>
+                <center><i><br>«Посторонним вход воспрещен:
+                    <br>Нарушители будут расстреляны.
+                    <br>Выжившие будут расстреляны снова».
+                    </i></center>
+            <p>Визуально ориентируемся самую стильную не номерную часть GTA и «Лицо со шармом», но это как кайф. Для нас куда важнее чтобы всем было комфортно. </p>
+        </div>
+    </section>
+    <section id="n4">     
+        <div class="article3"> <img src="https://vh299-fm.sweb.ru/files/public_html/assets/images/gal.png">
+            <p>И да, у нас есть небольшая просьба по подаркам. Не тащите в такую даль цветы, которым нам потом ещё и придётся везти обратно – лучше прихватите нам в подарок по бутылочке вашего любимого алкоголя. Может быть, хотя так мы заведём у себя бар, в котором ещё и будет напоминание о каждом из вас. </p>
+            </div>
+    </section>
+    <section id="n5">    
+         <div class="article4">
+            <p>Мы вас очень любим и ждём. Мы долго готовились к этой истории. И помните, что про каждого из вас мы можем сказать:  </p>
+                <center><i><br>«— Вам нужен один дополнительный ствол?
+                    <br>— Вы, мой друг, стоите десяти стволов!».</i></center>
+        </div>
+
+        </section> 
+    <section id="n6">
+        <div class="article4"> <b>Контакты на случай ЧП:</b>
+            <br><img src="https://vh299-fm.sweb.ru/files/public_html/assets/images/logo.png" class="tg"><a href="https://t.me/danilov139">Андрей</a>
+            <br><img src="https://vh299-fm.sweb.ru/files/public_html/assets/images/logo.png" class="tg"><a href="https://t.me/GalinaSitnikova">Галя</a>
+            <br><img src="https://vh299-fm.sweb.ru/files/public_html/assets/images/logo.png" class="tg"><a href="https://t.me/Eldarka_live">Эльдар-координатор</a>
+        </div>
+    </section> 
+        <div class="map"><b>Карта проезда:</b></div>
+        <div class="map2"><script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A9df68b4c0b24639e7e1d9aa741737683b32e1e96c16ee7f16829c590cc379f8d&amp;width=100%25&amp;height=240&amp;lang=ru_RU&amp;scroll=true"></script></div>
+        
+        <div class="ending">
+            <img src="https://vh299-fm.sweb.ru/files/public_html/assets/images/bike.png" class="bike">
+        Сайт верстался на коленке. И так как времени осталось немного, он получился кривоватым. Сорьки</div>
+        
+    
+        <nav>
+        <a href="#n1">ПРИВЕТ,</a>
+        <a href="#n2">ВРЕМЯ</a>
+        <a href="#n3">ТУСИТЬ</a>
+        <a href="#n4">ДО УТРА</a>
+        <a href="#n5">*ТЫК*НАВИГАЦИЯ</a>
+    </nav>
+        
+</body>
+</html>
+    
