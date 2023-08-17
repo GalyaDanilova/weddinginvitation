@@ -1,0 +1,159 @@
+body {
+    background-color: #87d5e1;
+
+}
+
+section {
+    position: relative;
+}
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    background: #87d5e1;
+    font-family: Montserrat;
+    
+}
+
+nav a{
+    position: relative;
+    color:aliceblue;
+    text-decoration: none;
+    padding: 8px 25px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    display: inline-block;
+    
+}
+
+nav a:hover,
+section#1:hover~nav a[href="#n1"],
+section#1:hover~nav a[href="#n2"],
+section#1:hover~nav a[href="#n3"],
+section#1:hover~nav a[href="#n4"],
+section#5:hover~nav a[href="#n5"],
+section#1:hover~nav a[href="#n6"],
+{
+    background: #9cc;
+    color: #0E3E44;
+}
+
+nav a:active{
+    background: #3b7688;
+    color: #0E3E44;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.article1 {
+    font-family: Montserrat;
+    margin-top: 20%;
+    margin-left: 10%;
+    font-size: 1.5em;
+    text-align: center;
+    color: black;
+}
+.article1 img{
+    float: left;
+    margin-left: 10%;
+    object-fit: cover;
+    
+}
+.article2 {
+    font-family: Montserrat;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 1.5em;
+    text-align: center;
+    color: black;
+  
+}
+
+
+.article3 {
+    font-family: Montserrat;
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: 1.5em;
+    text-align: center;
+    color: black;
+   
+}
+.article3 img{
+    float: right;
+    margin-left: 10%;
+    object-fit: cover;
+}
+.article4 {
+    font-family: Montserrat;
+    margin-top:10%;
+    margin-left: 10%;
+    font-size: 1.5em;
+    text-align: left;
+    color: black;
+    font-style: inherit;
+    
+}
+tg {
+    width: 15%;
+    height: 15%;
+}
+a {
+    font-family: Montserrat;
+    color: black;
+    text-decoration: none;
+    
+}
+.map {
+    font-family: Montserrat;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 30%;
+    font-size: 1.5em;
+    text-align: left;
+    color: black;
+    font-style: inherit;
+}
+.map2 {
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    
+}
+
+.ending {
+    font-family: Montserrat;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.grand {
+    margin-top: 15%;
+    margin left: 15%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    
+}
+.dude {
+    float: right;
+    margin-left: 10%;
+    object-fit: cover;
+}
+
+.tg {
+    width: 15px;
+    height: 15px;
+}
+
+.bike {
+    margin: 0;
+    
+}
